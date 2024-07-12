@@ -4,6 +4,10 @@
 
 Este é um aplicativo de planejamento de viagem desenvolvido utilizando React Native e Expo. O aplicativo permite criar viagens, convidar pessoas, adicionar atividades e links importantes, além de visualizar os convidados e o status de aceite.
 
+## Vídeo Desmontrativo da Aplicação
+
+[Link do YouTube](https://youtu.be/eSH9gAJH5M8)
+
 ## Tecnologias Utilizadas
 
 <span>
