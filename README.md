@@ -1,4 +1,4 @@
-# Aplicativo de Planejamento de Viagem
+# plann.er - planejamento de viagens
 ## Descrição
 Este é um aplicativo de planejamento de viagem desenvolvido utilizando React Native e Expo. O aplicativo permite criar viagens, convidar pessoas, adicionar atividades e links importantes, além de visualizar os convidados e o status de aceite.
 ## Tecnologias Utilizadas
