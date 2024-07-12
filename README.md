@@ -75,3 +75,8 @@ planner-viagens-NLW/
 │   └── utils/             # Funções utilitárias
 └── README.md              # Documentação do projeto
 ```
+
+## Autores
+
+- [@orodrigogo](https://github.com/orodrigogo)
+- [@pedrotonin](https://www.linkedin.com/in/pedro-henrique-de-avila-tonin-6b96801a1/?locale=en_US)
